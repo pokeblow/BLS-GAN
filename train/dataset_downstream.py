@@ -15,8 +15,6 @@ import json
 import torch.nn.functional as F
 
 ROOT_PATH = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
-
-
 class Data_Loader(Dataset):
     def __init__(self, data_path, transform=None, create_overlap_flag=False):
         self.data_path = data_path
