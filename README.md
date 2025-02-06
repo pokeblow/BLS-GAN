@@ -41,7 +41,7 @@ Additionally, pre-training with synthetic images was implemented to enhance the 
 If you find this code useful, please consider citing our paper:
 ```
 @inproceedings{
-anonymous2024blsgan,
+wang2024blsgan,
 title={{BLS}-{GAN}: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs},
 author={Haolin Wang, Yafei Ou, Prasoon Ambalathankandy, Gen Ota, Pengyu Dai, Masayuki Ikebe, Kenji Suzuki, Tamotsu Kamishima},
 booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
