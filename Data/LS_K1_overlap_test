@@ -1,0 +1,926 @@
+[
+    {
+        "image": "Dataset_cases_anonymization/00153_R_8/bb0d55ff93114023a9e376f68f78db62.jpg",
+        "upper": "Dataset_cases_anonymization/00153_R_8/bb0d55ff93114023a9e376f68f78db62_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00153_R_8/bb0d55ff93114023a9e376f68f78db62_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00153_R_8_bb0d55ff93114023a9e376f68f78db62.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00153_R_8/72b0828cde614ff8b387793c663a749d.jpg",
+        "upper": "Dataset_cases_anonymization/00153_R_8/72b0828cde614ff8b387793c663a749d_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00153_R_8/72b0828cde614ff8b387793c663a749d_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00153_R_8_72b0828cde614ff8b387793c663a749d.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00153_R_8/2bbe4607caee4786a0b0164e76ed9973.jpg",
+        "upper": "Dataset_cases_anonymization/00153_R_8/2bbe4607caee4786a0b0164e76ed9973_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00153_R_8/2bbe4607caee4786a0b0164e76ed9973_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00153_R_8_2bbe4607caee4786a0b0164e76ed9973.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00153_R_8/607e1a889ba5440aa1f2afcd15f81861.jpg",
+        "upper": "Dataset_cases_anonymization/00153_R_8/607e1a889ba5440aa1f2afcd15f81861_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00153_R_8/607e1a889ba5440aa1f2afcd15f81861_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00153_R_8_607e1a889ba5440aa1f2afcd15f81861.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00233_L_11/e4df234ecc4a41ae84e487b9ef8429c8.jpg",
+        "upper": "Dataset_cases_anonymization/00233_L_11/e4df234ecc4a41ae84e487b9ef8429c8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00233_L_11/e4df234ecc4a41ae84e487b9ef8429c8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00233_L_11_e4df234ecc4a41ae84e487b9ef8429c8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00196_R_8/bd49bfa0c8434a3cbdf34335b61b1568.jpg",
+        "upper": "Dataset_cases_anonymization/00196_R_8/bd49bfa0c8434a3cbdf34335b61b1568_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00196_R_8/bd49bfa0c8434a3cbdf34335b61b1568_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00196_R_8_bd49bfa0c8434a3cbdf34335b61b1568.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00104_R_5/0230a99e77ee4f709f7947f6968e3e34.jpg",
+        "upper": "Dataset_cases_anonymization/00104_R_5/0230a99e77ee4f709f7947f6968e3e34_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00104_R_5/0230a99e77ee4f709f7947f6968e3e34_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00104_R_5_0230a99e77ee4f709f7947f6968e3e34.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00104_R_5/6134a75ffbf941a7b0be184b4a475712.jpg",
+        "upper": "Dataset_cases_anonymization/00104_R_5/6134a75ffbf941a7b0be184b4a475712_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00104_R_5/6134a75ffbf941a7b0be184b4a475712_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00104_R_5_6134a75ffbf941a7b0be184b4a475712.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00486_L_11/c67dab9e2c844ad8b184e7b2e466c6f4.jpg",
+        "upper": "Dataset_cases_anonymization/00486_L_11/c67dab9e2c844ad8b184e7b2e466c6f4_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00486_L_11/c67dab9e2c844ad8b184e7b2e466c6f4_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00486_L_11_c67dab9e2c844ad8b184e7b2e466c6f4.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00486_L_11/4b08cbf2061c4d1aa4cd0472f9dd9668.jpg",
+        "upper": "Dataset_cases_anonymization/00486_L_11/4b08cbf2061c4d1aa4cd0472f9dd9668_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00486_L_11/4b08cbf2061c4d1aa4cd0472f9dd9668_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00486_L_11_4b08cbf2061c4d1aa4cd0472f9dd9668.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00486_L_11/c06338c551224c7fb8f31a9246741325.jpg",
+        "upper": "Dataset_cases_anonymization/00486_L_11/c06338c551224c7fb8f31a9246741325_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00486_L_11/c06338c551224c7fb8f31a9246741325_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00486_L_11_c06338c551224c7fb8f31a9246741325.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00486_L_11/98f61e21f5b0485ea23f647625040eb4.jpg",
+        "upper": "Dataset_cases_anonymization/00486_L_11/98f61e21f5b0485ea23f647625040eb4_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00486_L_11/98f61e21f5b0485ea23f647625040eb4_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00486_L_11_98f61e21f5b0485ea23f647625040eb4.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00410_R_11/694407df148b4fe1b8741e27d4f1183b.jpg",
+        "upper": "Dataset_cases_anonymization/00410_R_11/694407df148b4fe1b8741e27d4f1183b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00410_R_11/694407df148b4fe1b8741e27d4f1183b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00410_R_11_694407df148b4fe1b8741e27d4f1183b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00410_R_11/175cd62ca69c4918bfcf51a14feef510.jpg",
+        "upper": "Dataset_cases_anonymization/00410_R_11/175cd62ca69c4918bfcf51a14feef510_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00410_R_11/175cd62ca69c4918bfcf51a14feef510_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00410_R_11_175cd62ca69c4918bfcf51a14feef510.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00410_R_11/f826c2d761b94398a2a1629e00fbd930.jpg",
+        "upper": "Dataset_cases_anonymization/00410_R_11/f826c2d761b94398a2a1629e00fbd930_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00410_R_11/f826c2d761b94398a2a1629e00fbd930_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00410_R_11_f826c2d761b94398a2a1629e00fbd930.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00410_R_11/342cb3bf370e4ae08180cd592f6b622a.jpg",
+        "upper": "Dataset_cases_anonymization/00410_R_11/342cb3bf370e4ae08180cd592f6b622a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00410_R_11/342cb3bf370e4ae08180cd592f6b622a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00410_R_11_342cb3bf370e4ae08180cd592f6b622a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00277_L_8/5b80a1aa49e24aff873b4a51419eff0a.jpg",
+        "upper": "Dataset_cases_anonymization/00277_L_8/5b80a1aa49e24aff873b4a51419eff0a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00277_L_8/5b80a1aa49e24aff873b4a51419eff0a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00277_L_8_5b80a1aa49e24aff873b4a51419eff0a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00224_R_13/3dd4b233eb2b4ea6adc6de15c71759ca.jpg",
+        "upper": "Dataset_cases_anonymization/00224_R_13/3dd4b233eb2b4ea6adc6de15c71759ca_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00224_R_13/3dd4b233eb2b4ea6adc6de15c71759ca_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00224_R_13_3dd4b233eb2b4ea6adc6de15c71759ca.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00224_R_13/8ef5be2d40c54860a19aa9c98f4b6243.jpg",
+        "upper": "Dataset_cases_anonymization/00224_R_13/8ef5be2d40c54860a19aa9c98f4b6243_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00224_R_13/8ef5be2d40c54860a19aa9c98f4b6243_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00224_R_13_8ef5be2d40c54860a19aa9c98f4b6243.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00224_R_13/4aecf742cfd14bf190f9fd5fc1b7d4b1.jpg",
+        "upper": "Dataset_cases_anonymization/00224_R_13/4aecf742cfd14bf190f9fd5fc1b7d4b1_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00224_R_13/4aecf742cfd14bf190f9fd5fc1b7d4b1_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00224_R_13_4aecf742cfd14bf190f9fd5fc1b7d4b1.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00221_L_8/33fa6cde4bb346f7bc21fa417cd678b6.jpg",
+        "upper": "Dataset_cases_anonymization/00221_L_8/33fa6cde4bb346f7bc21fa417cd678b6_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00221_L_8/33fa6cde4bb346f7bc21fa417cd678b6_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00221_L_8_33fa6cde4bb346f7bc21fa417cd678b6.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00103_R_13/01d4c06ce3984061a45637460d490417.jpg",
+        "upper": "Dataset_cases_anonymization/00103_R_13/01d4c06ce3984061a45637460d490417_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00103_R_13/01d4c06ce3984061a45637460d490417_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00103_R_13_01d4c06ce3984061a45637460d490417.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00103_R_13/630ea0be183a429c8cd30a582d0f1994.jpg",
+        "upper": "Dataset_cases_anonymization/00103_R_13/630ea0be183a429c8cd30a582d0f1994_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00103_R_13/630ea0be183a429c8cd30a582d0f1994_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00103_R_13_630ea0be183a429c8cd30a582d0f1994.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00254_R_11/76b0b893744a4051843396927db02f6a.jpg",
+        "upper": "Dataset_cases_anonymization/00254_R_11/76b0b893744a4051843396927db02f6a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00254_R_11/76b0b893744a4051843396927db02f6a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00254_R_11_76b0b893744a4051843396927db02f6a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00254_R_11/3cbaef7bc6f04077aa9d36ed1c3a0b15.jpg",
+        "upper": "Dataset_cases_anonymization/00254_R_11/3cbaef7bc6f04077aa9d36ed1c3a0b15_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00254_R_11/3cbaef7bc6f04077aa9d36ed1c3a0b15_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00254_R_11_3cbaef7bc6f04077aa9d36ed1c3a0b15.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00254_R_11/eb7689521286442c8fe2a7072d022d57.jpg",
+        "upper": "Dataset_cases_anonymization/00254_R_11/eb7689521286442c8fe2a7072d022d57_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00254_R_11/eb7689521286442c8fe2a7072d022d57_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00254_R_11_eb7689521286442c8fe2a7072d022d57.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00254_R_11/76641f86f2734c578cb10e579dc739a3.jpg",
+        "upper": "Dataset_cases_anonymization/00254_R_11/76641f86f2734c578cb10e579dc739a3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00254_R_11/76641f86f2734c578cb10e579dc739a3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00254_R_11_76641f86f2734c578cb10e579dc739a3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00070_R_13/698bc7c3497649d89747f5db624114ca.jpg",
+        "upper": "Dataset_cases_anonymization/00070_R_13/698bc7c3497649d89747f5db624114ca_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00070_R_13/698bc7c3497649d89747f5db624114ca_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00070_R_13_698bc7c3497649d89747f5db624114ca.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00070_R_13/98cd6374122849ada0393c26f615d4b6.jpg",
+        "upper": "Dataset_cases_anonymization/00070_R_13/98cd6374122849ada0393c26f615d4b6_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00070_R_13/98cd6374122849ada0393c26f615d4b6_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00070_R_13_98cd6374122849ada0393c26f615d4b6.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00383_R_2/6543654cdd154e1e880fd640e99ff097.jpg",
+        "upper": "Dataset_cases_anonymization/00383_R_2/6543654cdd154e1e880fd640e99ff097_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00383_R_2/6543654cdd154e1e880fd640e99ff097_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00383_R_2_6543654cdd154e1e880fd640e99ff097.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00383_R_2/f2bd7196fcfd4a2baf573f46abe8f810.jpg",
+        "upper": "Dataset_cases_anonymization/00383_R_2/f2bd7196fcfd4a2baf573f46abe8f810_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00383_R_2/f2bd7196fcfd4a2baf573f46abe8f810_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00383_R_2_f2bd7196fcfd4a2baf573f46abe8f810.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00383_R_2/1ff13b07e92b4367b02736af9f349574.jpg",
+        "upper": "Dataset_cases_anonymization/00383_R_2/1ff13b07e92b4367b02736af9f349574_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00383_R_2/1ff13b07e92b4367b02736af9f349574_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00383_R_2_1ff13b07e92b4367b02736af9f349574.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00420_R_11/2ad7367235764e9c801a0c2a48723f64.jpg",
+        "upper": "Dataset_cases_anonymization/00420_R_11/2ad7367235764e9c801a0c2a48723f64_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00420_R_11/2ad7367235764e9c801a0c2a48723f64_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00420_R_11_2ad7367235764e9c801a0c2a48723f64.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00420_R_11/070890c6b5184d1784b9aa6727e3192b.jpg",
+        "upper": "Dataset_cases_anonymization/00420_R_11/070890c6b5184d1784b9aa6727e3192b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00420_R_11/070890c6b5184d1784b9aa6727e3192b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00420_R_11_070890c6b5184d1784b9aa6727e3192b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00420_R_11/5ea7d4c65a504ebd9e6ce4145883ec4f.jpg",
+        "upper": "Dataset_cases_anonymization/00420_R_11/5ea7d4c65a504ebd9e6ce4145883ec4f_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00420_R_11/5ea7d4c65a504ebd9e6ce4145883ec4f_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00420_R_11_5ea7d4c65a504ebd9e6ce4145883ec4f.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00255_R_5/1f5ea0ff93a642cdaaf0f28a3a5af84a.jpg",
+        "upper": "Dataset_cases_anonymization/00255_R_5/1f5ea0ff93a642cdaaf0f28a3a5af84a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00255_R_5/1f5ea0ff93a642cdaaf0f28a3a5af84a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00255_R_5_1f5ea0ff93a642cdaaf0f28a3a5af84a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00044_L_2/00e44593fd2f484da6967f5f99557c85.jpg",
+        "upper": "Dataset_cases_anonymization/00044_L_2/00e44593fd2f484da6967f5f99557c85_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00044_L_2/00e44593fd2f484da6967f5f99557c85_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00044_L_2_00e44593fd2f484da6967f5f99557c85.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00072_L_8/6807b917a0af46c49709ccbe31f5d47d.jpg",
+        "upper": "Dataset_cases_anonymization/00072_L_8/6807b917a0af46c49709ccbe31f5d47d_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00072_L_8/6807b917a0af46c49709ccbe31f5d47d_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00072_L_8_6807b917a0af46c49709ccbe31f5d47d.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00072_L_8/c008f6588fe242e88009ff86ded123da.jpg",
+        "upper": "Dataset_cases_anonymization/00072_L_8/c008f6588fe242e88009ff86ded123da_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00072_L_8/c008f6588fe242e88009ff86ded123da_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00072_L_8_c008f6588fe242e88009ff86ded123da.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00072_L_8/f63ee6fb83b14754b3f88176a843951c.jpg",
+        "upper": "Dataset_cases_anonymization/00072_L_8/f63ee6fb83b14754b3f88176a843951c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00072_L_8/f63ee6fb83b14754b3f88176a843951c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00072_L_8_f63ee6fb83b14754b3f88176a843951c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00166_R_8/315fed3da1c749769fa7202e01c65f77.jpg",
+        "upper": "Dataset_cases_anonymization/00166_R_8/315fed3da1c749769fa7202e01c65f77_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00166_R_8/315fed3da1c749769fa7202e01c65f77_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00166_R_8_315fed3da1c749769fa7202e01c65f77.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00208_L_2/1ecad810960d438e905f68c71503cba2.jpg",
+        "upper": "Dataset_cases_anonymization/00208_L_2/1ecad810960d438e905f68c71503cba2_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00208_L_2/1ecad810960d438e905f68c71503cba2_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00208_L_2_1ecad810960d438e905f68c71503cba2.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00145_L_8/635adafc690d4121888b70aacb389513.jpg",
+        "upper": "Dataset_cases_anonymization/00145_L_8/635adafc690d4121888b70aacb389513_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00145_L_8/635adafc690d4121888b70aacb389513_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00145_L_8_635adafc690d4121888b70aacb389513.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00145_L_8/f837fa8b14604ee2af3b1f1332913d06.jpg",
+        "upper": "Dataset_cases_anonymization/00145_L_8/f837fa8b14604ee2af3b1f1332913d06_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00145_L_8/f837fa8b14604ee2af3b1f1332913d06_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00145_L_8_f837fa8b14604ee2af3b1f1332913d06.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00088_R_11/1e73bac1281b4811a41dd204523a1ef5.jpg",
+        "upper": "Dataset_cases_anonymization/00088_R_11/1e73bac1281b4811a41dd204523a1ef5_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00088_R_11/1e73bac1281b4811a41dd204523a1ef5_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00088_R_11_1e73bac1281b4811a41dd204523a1ef5.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00088_R_11/9d7a4b98f2bc430492a119f115a4ec24.jpg",
+        "upper": "Dataset_cases_anonymization/00088_R_11/9d7a4b98f2bc430492a119f115a4ec24_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00088_R_11/9d7a4b98f2bc430492a119f115a4ec24_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00088_R_11_9d7a4b98f2bc430492a119f115a4ec24.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00088_R_11/7c93036f97ba48c19cfd122d01120c6e.jpg",
+        "upper": "Dataset_cases_anonymization/00088_R_11/7c93036f97ba48c19cfd122d01120c6e_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00088_R_11/7c93036f97ba48c19cfd122d01120c6e_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00088_R_11_7c93036f97ba48c19cfd122d01120c6e.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00088_R_11/54d67e474efb48f39c5f588c6da07acb.jpg",
+        "upper": "Dataset_cases_anonymization/00088_R_11/54d67e474efb48f39c5f588c6da07acb_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00088_R_11/54d67e474efb48f39c5f588c6da07acb_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00088_R_11_54d67e474efb48f39c5f588c6da07acb.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00312_L_11/a97cd495212e43f3a5c2cb0dafcc83b3.jpg",
+        "upper": "Dataset_cases_anonymization/00312_L_11/a97cd495212e43f3a5c2cb0dafcc83b3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00312_L_11/a97cd495212e43f3a5c2cb0dafcc83b3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00312_L_11_a97cd495212e43f3a5c2cb0dafcc83b3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00312_L_11/d80c6779cc364fb08b17512fc097add5.jpg",
+        "upper": "Dataset_cases_anonymization/00312_L_11/d80c6779cc364fb08b17512fc097add5_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00312_L_11/d80c6779cc364fb08b17512fc097add5_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00312_L_11_d80c6779cc364fb08b17512fc097add5.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00312_L_11/16fe4a9568a84a2d80b04bba244b8e5e.jpg",
+        "upper": "Dataset_cases_anonymization/00312_L_11/16fe4a9568a84a2d80b04bba244b8e5e_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00312_L_11/16fe4a9568a84a2d80b04bba244b8e5e_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00312_L_11_16fe4a9568a84a2d80b04bba244b8e5e.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00142_R_8/527446d79911495a855e172960d991d5.jpg",
+        "upper": "Dataset_cases_anonymization/00142_R_8/527446d79911495a855e172960d991d5_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00142_R_8/527446d79911495a855e172960d991d5_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00142_R_8_527446d79911495a855e172960d991d5.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00142_R_8/0d5c7ccc652f4e99834c918eb67f17e0.jpg",
+        "upper": "Dataset_cases_anonymization/00142_R_8/0d5c7ccc652f4e99834c918eb67f17e0_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00142_R_8/0d5c7ccc652f4e99834c918eb67f17e0_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00142_R_8_0d5c7ccc652f4e99834c918eb67f17e0.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00359_L_8/da1144f755c5433a86ae82c08616e2d7.jpg",
+        "upper": "Dataset_cases_anonymization/00359_L_8/da1144f755c5433a86ae82c08616e2d7_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00359_L_8/da1144f755c5433a86ae82c08616e2d7_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00359_L_8_da1144f755c5433a86ae82c08616e2d7.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00359_L_8/24431d6a660c4bb6bc36d7c685da1977.jpg",
+        "upper": "Dataset_cases_anonymization/00359_L_8/24431d6a660c4bb6bc36d7c685da1977_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00359_L_8/24431d6a660c4bb6bc36d7c685da1977_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00359_L_8_24431d6a660c4bb6bc36d7c685da1977.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00026_L_8/e623a669b54943638eb252eb8263d2b4.jpg",
+        "upper": "Dataset_cases_anonymization/00026_L_8/e623a669b54943638eb252eb8263d2b4_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00026_L_8/e623a669b54943638eb252eb8263d2b4_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00026_L_8_e623a669b54943638eb252eb8263d2b4.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00026_L_8/5dec11ac2b7a42b4986bb5ce294f8b2c.jpg",
+        "upper": "Dataset_cases_anonymization/00026_L_8/5dec11ac2b7a42b4986bb5ce294f8b2c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00026_L_8/5dec11ac2b7a42b4986bb5ce294f8b2c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00026_L_8_5dec11ac2b7a42b4986bb5ce294f8b2c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00026_L_8/7c88b049e612405b8c6c9fba7f6daef3.jpg",
+        "upper": "Dataset_cases_anonymization/00026_L_8/7c88b049e612405b8c6c9fba7f6daef3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00026_L_8/7c88b049e612405b8c6c9fba7f6daef3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00026_L_8_7c88b049e612405b8c6c9fba7f6daef3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00015_L_5/9b7a5a72eec44fb2b38988049b3cb8f3.jpg",
+        "upper": "Dataset_cases_anonymization/00015_L_5/9b7a5a72eec44fb2b38988049b3cb8f3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00015_L_5/9b7a5a72eec44fb2b38988049b3cb8f3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00015_L_5_9b7a5a72eec44fb2b38988049b3cb8f3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00348_R_2/3298951123a14b60aac319e98bde87e0.jpg",
+        "upper": "Dataset_cases_anonymization/00348_R_2/3298951123a14b60aac319e98bde87e0_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00348_R_2/3298951123a14b60aac319e98bde87e0_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00348_R_2_3298951123a14b60aac319e98bde87e0.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00348_R_2/79ab64d0cc8a4448b1bb3f052ec549c0.jpg",
+        "upper": "Dataset_cases_anonymization/00348_R_2/79ab64d0cc8a4448b1bb3f052ec549c0_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00348_R_2/79ab64d0cc8a4448b1bb3f052ec549c0_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00348_R_2_79ab64d0cc8a4448b1bb3f052ec549c0.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00348_R_2/8148f3fba4ac459f86c20d02ca980794.jpg",
+        "upper": "Dataset_cases_anonymization/00348_R_2/8148f3fba4ac459f86c20d02ca980794_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00348_R_2/8148f3fba4ac459f86c20d02ca980794_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00348_R_2_8148f3fba4ac459f86c20d02ca980794.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00452_L_8/ab18def4591947ab92c6d9cd37213d82.jpg",
+        "upper": "Dataset_cases_anonymization/00452_L_8/ab18def4591947ab92c6d9cd37213d82_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00452_L_8/ab18def4591947ab92c6d9cd37213d82_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00452_L_8_ab18def4591947ab92c6d9cd37213d82.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00452_L_8/59ea06f096d44180b1c839e7fe9447c2.jpg",
+        "upper": "Dataset_cases_anonymization/00452_L_8/59ea06f096d44180b1c839e7fe9447c2_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00452_L_8/59ea06f096d44180b1c839e7fe9447c2_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00452_L_8_59ea06f096d44180b1c839e7fe9447c2.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00452_L_8/f9cfb1987dfe40c087ac2337b5df4fc0.jpg",
+        "upper": "Dataset_cases_anonymization/00452_L_8/f9cfb1987dfe40c087ac2337b5df4fc0_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00452_L_8/f9cfb1987dfe40c087ac2337b5df4fc0_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00452_L_8_f9cfb1987dfe40c087ac2337b5df4fc0.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00452_L_8/7a4f5fda374f498cb6dd25cd0cbd56ca.jpg",
+        "upper": "Dataset_cases_anonymization/00452_L_8/7a4f5fda374f498cb6dd25cd0cbd56ca_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00452_L_8/7a4f5fda374f498cb6dd25cd0cbd56ca_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00452_L_8_7a4f5fda374f498cb6dd25cd0cbd56ca.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00217_L_11/721250b26d0141adbf5c13722a64f067.jpg",
+        "upper": "Dataset_cases_anonymization/00217_L_11/721250b26d0141adbf5c13722a64f067_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00217_L_11/721250b26d0141adbf5c13722a64f067_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00217_L_11_721250b26d0141adbf5c13722a64f067.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00217_L_11/1d0f74ebb9f24bc5afc73bca839b6dd2.jpg",
+        "upper": "Dataset_cases_anonymization/00217_L_11/1d0f74ebb9f24bc5afc73bca839b6dd2_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00217_L_11/1d0f74ebb9f24bc5afc73bca839b6dd2_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00217_L_11_1d0f74ebb9f24bc5afc73bca839b6dd2.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00105_L_11/15b263364c5942839b2e2d10f02a19c8.jpg",
+        "upper": "Dataset_cases_anonymization/00105_L_11/15b263364c5942839b2e2d10f02a19c8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00105_L_11/15b263364c5942839b2e2d10f02a19c8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00105_L_11_15b263364c5942839b2e2d10f02a19c8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00105_L_11/d4ffafaea0594a02873ede941228adad.jpg",
+        "upper": "Dataset_cases_anonymization/00105_L_11/d4ffafaea0594a02873ede941228adad_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00105_L_11/d4ffafaea0594a02873ede941228adad_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00105_L_11_d4ffafaea0594a02873ede941228adad.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00433_R_11/ab2b1c6c44e94ce0881acd912964f6a5.jpg",
+        "upper": "Dataset_cases_anonymization/00433_R_11/ab2b1c6c44e94ce0881acd912964f6a5_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00433_R_11/ab2b1c6c44e94ce0881acd912964f6a5_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00433_R_11_ab2b1c6c44e94ce0881acd912964f6a5.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00433_R_11/00fe16584c944bb3bf75f8ca495b5f91.jpg",
+        "upper": "Dataset_cases_anonymization/00433_R_11/00fe16584c944bb3bf75f8ca495b5f91_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00433_R_11/00fe16584c944bb3bf75f8ca495b5f91_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00433_R_11_00fe16584c944bb3bf75f8ca495b5f91.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00060_R_2/02fbaa9b5cd044de894054161b0299ce.jpg",
+        "upper": "Dataset_cases_anonymization/00060_R_2/02fbaa9b5cd044de894054161b0299ce_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00060_R_2/02fbaa9b5cd044de894054161b0299ce_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00060_R_2_02fbaa9b5cd044de894054161b0299ce.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00060_R_2/fe51b055b9814c22b315bf3b196647a4.jpg",
+        "upper": "Dataset_cases_anonymization/00060_R_2/fe51b055b9814c22b315bf3b196647a4_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00060_R_2/fe51b055b9814c22b315bf3b196647a4_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00060_R_2_fe51b055b9814c22b315bf3b196647a4.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00060_R_2/5a9c9e4151a647d99d0ca44e6638e044.jpg",
+        "upper": "Dataset_cases_anonymization/00060_R_2/5a9c9e4151a647d99d0ca44e6638e044_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00060_R_2/5a9c9e4151a647d99d0ca44e6638e044_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00060_R_2_5a9c9e4151a647d99d0ca44e6638e044.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00084_R_8/09938936abf84dc7b1a793aad3178ddd.jpg",
+        "upper": "Dataset_cases_anonymization/00084_R_8/09938936abf84dc7b1a793aad3178ddd_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00084_R_8/09938936abf84dc7b1a793aad3178ddd_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00084_R_8_09938936abf84dc7b1a793aad3178ddd.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00157_R_11/d24a9d6c20a8430384900588894df5d3.jpg",
+        "upper": "Dataset_cases_anonymization/00157_R_11/d24a9d6c20a8430384900588894df5d3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00157_R_11/d24a9d6c20a8430384900588894df5d3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00157_R_11_d24a9d6c20a8430384900588894df5d3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00226_L_11/27509a0fb28c43f28611bec3be73bf4d.jpg",
+        "upper": "Dataset_cases_anonymization/00226_L_11/27509a0fb28c43f28611bec3be73bf4d_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00226_L_11/27509a0fb28c43f28611bec3be73bf4d_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00226_L_11_27509a0fb28c43f28611bec3be73bf4d.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00226_L_11/a2ee0cebe1114ffeba9aef459c9ac512.jpg",
+        "upper": "Dataset_cases_anonymization/00226_L_11/a2ee0cebe1114ffeba9aef459c9ac512_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00226_L_11/a2ee0cebe1114ffeba9aef459c9ac512_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00226_L_11_a2ee0cebe1114ffeba9aef459c9ac512.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00411_L_2/06e942d86a7c4de68ac1d8d41696e9bb.jpg",
+        "upper": "Dataset_cases_anonymization/00411_L_2/06e942d86a7c4de68ac1d8d41696e9bb_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00411_L_2/06e942d86a7c4de68ac1d8d41696e9bb_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00411_L_2_06e942d86a7c4de68ac1d8d41696e9bb.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00411_L_2/ba679586f23f4ca9839c5cdffef2a12c.jpg",
+        "upper": "Dataset_cases_anonymization/00411_L_2/ba679586f23f4ca9839c5cdffef2a12c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00411_L_2/ba679586f23f4ca9839c5cdffef2a12c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00411_L_2_ba679586f23f4ca9839c5cdffef2a12c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00391_R_8/d013e27c338844f5a74479d7ea39ffbd.jpg",
+        "upper": "Dataset_cases_anonymization/00391_R_8/d013e27c338844f5a74479d7ea39ffbd_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00391_R_8/d013e27c338844f5a74479d7ea39ffbd_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00391_R_8_d013e27c338844f5a74479d7ea39ffbd.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00391_R_8/57588cdfa1494cdd92bace48508f103b.jpg",
+        "upper": "Dataset_cases_anonymization/00391_R_8/57588cdfa1494cdd92bace48508f103b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00391_R_8/57588cdfa1494cdd92bace48508f103b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00391_R_8_57588cdfa1494cdd92bace48508f103b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00180_R_11/a879c6fbb6894049a66684b8a21c6220.jpg",
+        "upper": "Dataset_cases_anonymization/00180_R_11/a879c6fbb6894049a66684b8a21c6220_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00180_R_11/a879c6fbb6894049a66684b8a21c6220_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00180_R_11_a879c6fbb6894049a66684b8a21c6220.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00180_R_11/625bc5a8f0d04130bed7f8cf8d6d4fb4.jpg",
+        "upper": "Dataset_cases_anonymization/00180_R_11/625bc5a8f0d04130bed7f8cf8d6d4fb4_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00180_R_11/625bc5a8f0d04130bed7f8cf8d6d4fb4_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00180_R_11_625bc5a8f0d04130bed7f8cf8d6d4fb4.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00180_R_11/349cfb38b3484f7092d9ba105e370df6.jpg",
+        "upper": "Dataset_cases_anonymization/00180_R_11/349cfb38b3484f7092d9ba105e370df6_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00180_R_11/349cfb38b3484f7092d9ba105e370df6_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00180_R_11_349cfb38b3484f7092d9ba105e370df6.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00180_R_11/316f8310fe6c49af9a478cbc28de4c3f.jpg",
+        "upper": "Dataset_cases_anonymization/00180_R_11/316f8310fe6c49af9a478cbc28de4c3f_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00180_R_11/316f8310fe6c49af9a478cbc28de4c3f_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00180_R_11_316f8310fe6c49af9a478cbc28de4c3f.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00149_R_8/5fed8055d1ac41649ce5b290b59163f8.jpg",
+        "upper": "Dataset_cases_anonymization/00149_R_8/5fed8055d1ac41649ce5b290b59163f8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00149_R_8/5fed8055d1ac41649ce5b290b59163f8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00149_R_8_5fed8055d1ac41649ce5b290b59163f8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00149_R_8/5ae3f8ae2b814df68f1ba1218a2d1183.jpg",
+        "upper": "Dataset_cases_anonymization/00149_R_8/5ae3f8ae2b814df68f1ba1218a2d1183_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00149_R_8/5ae3f8ae2b814df68f1ba1218a2d1183_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00149_R_8_5ae3f8ae2b814df68f1ba1218a2d1183.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00149_R_8/ebf5757f1d5f49f5bec166b1b4215f11.jpg",
+        "upper": "Dataset_cases_anonymization/00149_R_8/ebf5757f1d5f49f5bec166b1b4215f11_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00149_R_8/ebf5757f1d5f49f5bec166b1b4215f11_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00149_R_8_ebf5757f1d5f49f5bec166b1b4215f11.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00244_L_2/a86ce1dc0f1948a483a0858d27909f8c.jpg",
+        "upper": "Dataset_cases_anonymization/00244_L_2/a86ce1dc0f1948a483a0858d27909f8c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00244_L_2/a86ce1dc0f1948a483a0858d27909f8c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00244_L_2_a86ce1dc0f1948a483a0858d27909f8c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00242_R_8/1677d4a39e81447893b4573327f0e8dd.jpg",
+        "upper": "Dataset_cases_anonymization/00242_R_8/1677d4a39e81447893b4573327f0e8dd_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00242_R_8/1677d4a39e81447893b4573327f0e8dd_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00242_R_8_1677d4a39e81447893b4573327f0e8dd.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00242_R_8/b9284aa1baef42d9ae50e31815e24843.jpg",
+        "upper": "Dataset_cases_anonymization/00242_R_8/b9284aa1baef42d9ae50e31815e24843_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00242_R_8/b9284aa1baef42d9ae50e31815e24843_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00242_R_8_b9284aa1baef42d9ae50e31815e24843.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00336_R_8/f2183cdf187945b69fe968db702fabb7.jpg",
+        "upper": "Dataset_cases_anonymization/00336_R_8/f2183cdf187945b69fe968db702fabb7_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00336_R_8/f2183cdf187945b69fe968db702fabb7_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00336_R_8_f2183cdf187945b69fe968db702fabb7.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00336_R_8/cc98dfc672494a6aa2a22592753c9061.jpg",
+        "upper": "Dataset_cases_anonymization/00336_R_8/cc98dfc672494a6aa2a22592753c9061_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00336_R_8/cc98dfc672494a6aa2a22592753c9061_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00336_R_8_cc98dfc672494a6aa2a22592753c9061.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00336_R_8/615759dfd6844dd18bdb2caa7f660be0.jpg",
+        "upper": "Dataset_cases_anonymization/00336_R_8/615759dfd6844dd18bdb2caa7f660be0_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00336_R_8/615759dfd6844dd18bdb2caa7f660be0_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00336_R_8_615759dfd6844dd18bdb2caa7f660be0.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00237_R_13/115a588bf6f342779f66b18472239e47.jpg",
+        "upper": "Dataset_cases_anonymization/00237_R_13/115a588bf6f342779f66b18472239e47_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00237_R_13/115a588bf6f342779f66b18472239e47_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00237_R_13_115a588bf6f342779f66b18472239e47.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00353_R_8/31e4f47bf6bf41c897c49761504431c8.jpg",
+        "upper": "Dataset_cases_anonymization/00353_R_8/31e4f47bf6bf41c897c49761504431c8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00353_R_8/31e4f47bf6bf41c897c49761504431c8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00353_R_8_31e4f47bf6bf41c897c49761504431c8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00353_R_8/19c3b80c0b6c4a3baf58894881cf61d6.jpg",
+        "upper": "Dataset_cases_anonymization/00353_R_8/19c3b80c0b6c4a3baf58894881cf61d6_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00353_R_8/19c3b80c0b6c4a3baf58894881cf61d6_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00353_R_8_19c3b80c0b6c4a3baf58894881cf61d6.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00353_R_8/4f0e6165e291469992cb8dabfabbae91.jpg",
+        "upper": "Dataset_cases_anonymization/00353_R_8/4f0e6165e291469992cb8dabfabbae91_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00353_R_8/4f0e6165e291469992cb8dabfabbae91_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00353_R_8_4f0e6165e291469992cb8dabfabbae91.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00353_R_8/096c3ec3c9e94e1eb59190f18842f981.jpg",
+        "upper": "Dataset_cases_anonymization/00353_R_8/096c3ec3c9e94e1eb59190f18842f981_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00353_R_8/096c3ec3c9e94e1eb59190f18842f981_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00353_R_8_096c3ec3c9e94e1eb59190f18842f981.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00327_L_11/e7526529ce9c4dedbbb2386f87d520c8.jpg",
+        "upper": "Dataset_cases_anonymization/00327_L_11/e7526529ce9c4dedbbb2386f87d520c8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00327_L_11/e7526529ce9c4dedbbb2386f87d520c8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00327_L_11_e7526529ce9c4dedbbb2386f87d520c8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00327_L_11/69b3042a66e8407c9e29ab0f18a4a4e3.jpg",
+        "upper": "Dataset_cases_anonymization/00327_L_11/69b3042a66e8407c9e29ab0f18a4a4e3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00327_L_11/69b3042a66e8407c9e29ab0f18a4a4e3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00327_L_11_69b3042a66e8407c9e29ab0f18a4a4e3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00327_L_11/84bc55e14b1a4964886b7692a6045ba2.jpg",
+        "upper": "Dataset_cases_anonymization/00327_L_11/84bc55e14b1a4964886b7692a6045ba2_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00327_L_11/84bc55e14b1a4964886b7692a6045ba2_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00327_L_11_84bc55e14b1a4964886b7692a6045ba2.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00480_R_11/3dee360749ae484ba1b1f60e83cb8f03.jpg",
+        "upper": "Dataset_cases_anonymization/00480_R_11/3dee360749ae484ba1b1f60e83cb8f03_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00480_R_11/3dee360749ae484ba1b1f60e83cb8f03_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00480_R_11_3dee360749ae484ba1b1f60e83cb8f03.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00480_R_11/f00d23d6155b44e0a2935f3a7ebd413f.jpg",
+        "upper": "Dataset_cases_anonymization/00480_R_11/f00d23d6155b44e0a2935f3a7ebd413f_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00480_R_11/f00d23d6155b44e0a2935f3a7ebd413f_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00480_R_11_f00d23d6155b44e0a2935f3a7ebd413f.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00480_R_11/c7a2c87891e74e5db63269d2b42c676a.jpg",
+        "upper": "Dataset_cases_anonymization/00480_R_11/c7a2c87891e74e5db63269d2b42c676a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00480_R_11/c7a2c87891e74e5db63269d2b42c676a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00480_R_11_c7a2c87891e74e5db63269d2b42c676a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00155_R_11/c223e1ad7a9b4bfab626dd0a24d62969.jpg",
+        "upper": "Dataset_cases_anonymization/00155_R_11/c223e1ad7a9b4bfab626dd0a24d62969_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00155_R_11/c223e1ad7a9b4bfab626dd0a24d62969_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00155_R_11_c223e1ad7a9b4bfab626dd0a24d62969.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00288_R_8/9d3c0d9487164133a48f9405d884ec96.jpg",
+        "upper": "Dataset_cases_anonymization/00288_R_8/9d3c0d9487164133a48f9405d884ec96_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00288_R_8/9d3c0d9487164133a48f9405d884ec96_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00288_R_8_9d3c0d9487164133a48f9405d884ec96.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00288_R_8/100a80c907dc466096e057b21b9f0165.jpg",
+        "upper": "Dataset_cases_anonymization/00288_R_8/100a80c907dc466096e057b21b9f0165_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00288_R_8/100a80c907dc466096e057b21b9f0165_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00288_R_8_100a80c907dc466096e057b21b9f0165.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00288_R_8/4538e150bb9b4397ab68d01f67bdaa63.jpg",
+        "upper": "Dataset_cases_anonymization/00288_R_8/4538e150bb9b4397ab68d01f67bdaa63_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00288_R_8/4538e150bb9b4397ab68d01f67bdaa63_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00288_R_8_4538e150bb9b4397ab68d01f67bdaa63.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00278_L_13/08c62530ae264274ae03f847e9ce63aa.jpg",
+        "upper": "Dataset_cases_anonymization/00278_L_13/08c62530ae264274ae03f847e9ce63aa_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00278_L_13/08c62530ae264274ae03f847e9ce63aa_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00278_L_13_08c62530ae264274ae03f847e9ce63aa.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00456_R_8/285098479a6b44d58de50c97c4daa73e.jpg",
+        "upper": "Dataset_cases_anonymization/00456_R_8/285098479a6b44d58de50c97c4daa73e_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00456_R_8/285098479a6b44d58de50c97c4daa73e_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00456_R_8_285098479a6b44d58de50c97c4daa73e.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00456_R_8/f022c173b1f04c87a083b27c8fe5a053.jpg",
+        "upper": "Dataset_cases_anonymization/00456_R_8/f022c173b1f04c87a083b27c8fe5a053_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00456_R_8/f022c173b1f04c87a083b27c8fe5a053_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00456_R_8_f022c173b1f04c87a083b27c8fe5a053.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00456_R_8/8ccfaa1e492a4f6593c1ea0f64967d13.jpg",
+        "upper": "Dataset_cases_anonymization/00456_R_8/8ccfaa1e492a4f6593c1ea0f64967d13_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00456_R_8/8ccfaa1e492a4f6593c1ea0f64967d13_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00456_R_8_8ccfaa1e492a4f6593c1ea0f64967d13.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00030_L_5/fd2a08661a08416588a53832bf91dafc.jpg",
+        "upper": "Dataset_cases_anonymization/00030_L_5/fd2a08661a08416588a53832bf91dafc_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00030_L_5/fd2a08661a08416588a53832bf91dafc_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00030_L_5_fd2a08661a08416588a53832bf91dafc.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00030_L_5/aa0f60b9093b44c2973d18016855c35a.jpg",
+        "upper": "Dataset_cases_anonymization/00030_L_5/aa0f60b9093b44c2973d18016855c35a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00030_L_5/aa0f60b9093b44c2973d18016855c35a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00030_L_5_aa0f60b9093b44c2973d18016855c35a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00030_L_5/1ea7401afd994d7495ad3601c79cf87c.jpg",
+        "upper": "Dataset_cases_anonymization/00030_L_5/1ea7401afd994d7495ad3601c79cf87c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00030_L_5/1ea7401afd994d7495ad3601c79cf87c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00030_L_5_1ea7401afd994d7495ad3601c79cf87c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00403_R_2/a7a55e4059804ac5ab0524ec998a2b53.jpg",
+        "upper": "Dataset_cases_anonymization/00403_R_2/a7a55e4059804ac5ab0524ec998a2b53_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00403_R_2/a7a55e4059804ac5ab0524ec998a2b53_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00403_R_2_a7a55e4059804ac5ab0524ec998a2b53.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00425_L_2/940eefc7655145efae1e59e7b16f21bf.jpg",
+        "upper": "Dataset_cases_anonymization/00425_L_2/940eefc7655145efae1e59e7b16f21bf_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00425_L_2/940eefc7655145efae1e59e7b16f21bf_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00425_L_2_940eefc7655145efae1e59e7b16f21bf.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00425_L_2/4cfbb8fad46347b9bdd24f9befe1849e.jpg",
+        "upper": "Dataset_cases_anonymization/00425_L_2/4cfbb8fad46347b9bdd24f9befe1849e_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00425_L_2/4cfbb8fad46347b9bdd24f9befe1849e_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00425_L_2_4cfbb8fad46347b9bdd24f9befe1849e.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00022_L_11/7aeade178c624e469a524690cc5cd751.jpg",
+        "upper": "Dataset_cases_anonymization/00022_L_11/7aeade178c624e469a524690cc5cd751_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00022_L_11/7aeade178c624e469a524690cc5cd751_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00022_L_11_7aeade178c624e469a524690cc5cd751.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00022_L_11/618e1a4a0e8b4b068e33b1a827ac6d15.jpg",
+        "upper": "Dataset_cases_anonymization/00022_L_11/618e1a4a0e8b4b068e33b1a827ac6d15_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00022_L_11/618e1a4a0e8b4b068e33b1a827ac6d15_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00022_L_11_618e1a4a0e8b4b068e33b1a827ac6d15.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00069_R_11/d48a03b19bda406bb2cb7dfafe43974c.jpg",
+        "upper": "Dataset_cases_anonymization/00069_R_11/d48a03b19bda406bb2cb7dfafe43974c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00069_R_11/d48a03b19bda406bb2cb7dfafe43974c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00069_R_11_d48a03b19bda406bb2cb7dfafe43974c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00069_R_11/b8830d67dbc546a88faa28061a305486.jpg",
+        "upper": "Dataset_cases_anonymization/00069_R_11/b8830d67dbc546a88faa28061a305486_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00069_R_11/b8830d67dbc546a88faa28061a305486_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00069_R_11_b8830d67dbc546a88faa28061a305486.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00069_R_11/81a456142fe34e84af8a381bb2dd6e99.jpg",
+        "upper": "Dataset_cases_anonymization/00069_R_11/81a456142fe34e84af8a381bb2dd6e99_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00069_R_11/81a456142fe34e84af8a381bb2dd6e99_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00069_R_11_81a456142fe34e84af8a381bb2dd6e99.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00283_R_11/f4328e8f53fa42fe8d6d25931972ceb8.jpg",
+        "upper": "Dataset_cases_anonymization/00283_R_11/f4328e8f53fa42fe8d6d25931972ceb8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00283_R_11/f4328e8f53fa42fe8d6d25931972ceb8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00283_R_11_f4328e8f53fa42fe8d6d25931972ceb8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00283_R_11/50c2345c227a436593b835bda2ed44e1.jpg",
+        "upper": "Dataset_cases_anonymization/00283_R_11/50c2345c227a436593b835bda2ed44e1_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00283_R_11/50c2345c227a436593b835bda2ed44e1_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00283_R_11_50c2345c227a436593b835bda2ed44e1.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00324_R_5/fbd883bb75a64974916994a4d56e12f4.jpg",
+        "upper": "Dataset_cases_anonymization/00324_R_5/fbd883bb75a64974916994a4d56e12f4_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00324_R_5/fbd883bb75a64974916994a4d56e12f4_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00324_R_5_fbd883bb75a64974916994a4d56e12f4.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00328_L_11/40efc09fd0bb48c8ad4f7679784fc08d.jpg",
+        "upper": "Dataset_cases_anonymization/00328_L_11/40efc09fd0bb48c8ad4f7679784fc08d_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00328_L_11/40efc09fd0bb48c8ad4f7679784fc08d_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00328_L_11_40efc09fd0bb48c8ad4f7679784fc08d.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00132_L_5/d0b8968c96c94f3099fb50b4c12e9eef.jpg",
+        "upper": "Dataset_cases_anonymization/00132_L_5/d0b8968c96c94f3099fb50b4c12e9eef_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00132_L_5/d0b8968c96c94f3099fb50b4c12e9eef_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00132_L_5_d0b8968c96c94f3099fb50b4c12e9eef.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00018_R_8/7c485a23cb0948499a543add4691602b.jpg",
+        "upper": "Dataset_cases_anonymization/00018_R_8/7c485a23cb0948499a543add4691602b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00018_R_8/7c485a23cb0948499a543add4691602b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00018_R_8_7c485a23cb0948499a543add4691602b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00018_R_8/f2cbd4f6acec42ea9a77e33f736b9e85.jpg",
+        "upper": "Dataset_cases_anonymization/00018_R_8/f2cbd4f6acec42ea9a77e33f736b9e85_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00018_R_8/f2cbd4f6acec42ea9a77e33f736b9e85_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00018_R_8_f2cbd4f6acec42ea9a77e33f736b9e85.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00253_L_2/ec4a5e4e593c4c349dd7c59033dc7345.jpg",
+        "upper": "Dataset_cases_anonymization/00253_L_2/ec4a5e4e593c4c349dd7c59033dc7345_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00253_L_2/ec4a5e4e593c4c349dd7c59033dc7345_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00253_L_2_ec4a5e4e593c4c349dd7c59033dc7345.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00253_L_2/8592b58e88034b429d489a657de6523b.jpg",
+        "upper": "Dataset_cases_anonymization/00253_L_2/8592b58e88034b429d489a657de6523b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00253_L_2/8592b58e88034b429d489a657de6523b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00253_L_2_8592b58e88034b429d489a657de6523b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00253_L_2/b35e1c2746d74c3ea002d7c1ec7206a1.jpg",
+        "upper": "Dataset_cases_anonymization/00253_L_2/b35e1c2746d74c3ea002d7c1ec7206a1_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00253_L_2/b35e1c2746d74c3ea002d7c1ec7206a1_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00253_L_2_b35e1c2746d74c3ea002d7c1ec7206a1.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00387_L_11/6b6b8456386c47dbb6d0fef7d5021220.jpg",
+        "upper": "Dataset_cases_anonymization/00387_L_11/6b6b8456386c47dbb6d0fef7d5021220_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00387_L_11/6b6b8456386c47dbb6d0fef7d5021220_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00387_L_11_6b6b8456386c47dbb6d0fef7d5021220.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00387_L_11/da440184a3d7412588ab05d424a642d5.jpg",
+        "upper": "Dataset_cases_anonymization/00387_L_11/da440184a3d7412588ab05d424a642d5_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00387_L_11/da440184a3d7412588ab05d424a642d5_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00387_L_11_da440184a3d7412588ab05d424a642d5.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00387_L_11/53a0b8f1601a4872a5f8b3676bbb001e.jpg",
+        "upper": "Dataset_cases_anonymization/00387_L_11/53a0b8f1601a4872a5f8b3676bbb001e_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00387_L_11/53a0b8f1601a4872a5f8b3676bbb001e_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00387_L_11_53a0b8f1601a4872a5f8b3676bbb001e.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00387_L_11/c6d5a755559e489890fb209ff81e78c5.jpg",
+        "upper": "Dataset_cases_anonymization/00387_L_11/c6d5a755559e489890fb209ff81e78c5_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00387_L_11/c6d5a755559e489890fb209ff81e78c5_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00387_L_11_c6d5a755559e489890fb209ff81e78c5.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00170_R_13/d1efbe96b35c476b930c87cb6bf4ff5a.jpg",
+        "upper": "Dataset_cases_anonymization/00170_R_13/d1efbe96b35c476b930c87cb6bf4ff5a_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00170_R_13/d1efbe96b35c476b930c87cb6bf4ff5a_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00170_R_13_d1efbe96b35c476b930c87cb6bf4ff5a.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00170_R_13/00935498a13248debbebc14a99f38cf8.jpg",
+        "upper": "Dataset_cases_anonymization/00170_R_13/00935498a13248debbebc14a99f38cf8_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00170_R_13/00935498a13248debbebc14a99f38cf8_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00170_R_13_00935498a13248debbebc14a99f38cf8.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00234_R_13/a691f72e44ee494d8cfe5b1a804db7a2.jpg",
+        "upper": "Dataset_cases_anonymization/00234_R_13/a691f72e44ee494d8cfe5b1a804db7a2_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00234_R_13/a691f72e44ee494d8cfe5b1a804db7a2_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00234_R_13_a691f72e44ee494d8cfe5b1a804db7a2.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00234_R_13/260e9faf34ee44bdb5686708cd94617d.jpg",
+        "upper": "Dataset_cases_anonymization/00234_R_13/260e9faf34ee44bdb5686708cd94617d_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00234_R_13/260e9faf34ee44bdb5686708cd94617d_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00234_R_13_260e9faf34ee44bdb5686708cd94617d.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00219_R_11/6f3abbc25a9243c091981ad29283b75b.jpg",
+        "upper": "Dataset_cases_anonymization/00219_R_11/6f3abbc25a9243c091981ad29283b75b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00219_R_11/6f3abbc25a9243c091981ad29283b75b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00219_R_11_6f3abbc25a9243c091981ad29283b75b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00219_R_11/bd69a6b8fe344908af06ebe53671be6b.jpg",
+        "upper": "Dataset_cases_anonymization/00219_R_11/bd69a6b8fe344908af06ebe53671be6b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00219_R_11/bd69a6b8fe344908af06ebe53671be6b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00219_R_11_bd69a6b8fe344908af06ebe53671be6b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00061_R_8/128c8bc65a4342208fa2affe8484f708.jpg",
+        "upper": "Dataset_cases_anonymization/00061_R_8/128c8bc65a4342208fa2affe8484f708_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00061_R_8/128c8bc65a4342208fa2affe8484f708_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00061_R_8_128c8bc65a4342208fa2affe8484f708.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00162_R_8/b1102673672443adb41b835e30fe088f.jpg",
+        "upper": "Dataset_cases_anonymization/00162_R_8/b1102673672443adb41b835e30fe088f_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00162_R_8/b1102673672443adb41b835e30fe088f_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00162_R_8_b1102673672443adb41b835e30fe088f.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00162_R_8/95c0986ec864450d9734b4d3ba103b55.jpg",
+        "upper": "Dataset_cases_anonymization/00162_R_8/95c0986ec864450d9734b4d3ba103b55_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00162_R_8/95c0986ec864450d9734b4d3ba103b55_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00162_R_8_95c0986ec864450d9734b4d3ba103b55.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00464_R_2/0d9b72a05c5c4184a2d2c058dc08398b.jpg",
+        "upper": "Dataset_cases_anonymization/00464_R_2/0d9b72a05c5c4184a2d2c058dc08398b_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00464_R_2/0d9b72a05c5c4184a2d2c058dc08398b_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00464_R_2_0d9b72a05c5c4184a2d2c058dc08398b.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00464_R_2/8fab0109320b4b05a5fdabc65f729f22.jpg",
+        "upper": "Dataset_cases_anonymization/00464_R_2/8fab0109320b4b05a5fdabc65f729f22_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00464_R_2/8fab0109320b4b05a5fdabc65f729f22_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00464_R_2_8fab0109320b4b05a5fdabc65f729f22.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00464_R_2/8d5c025ceb774fe0a54dc0c82ea308d3.jpg",
+        "upper": "Dataset_cases_anonymization/00464_R_2/8d5c025ceb774fe0a54dc0c82ea308d3_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00464_R_2/8d5c025ceb774fe0a54dc0c82ea308d3_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00464_R_2_8d5c025ceb774fe0a54dc0c82ea308d3.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00173_R_13/30e2ec6aff85488e811c3e01c089125c.jpg",
+        "upper": "Dataset_cases_anonymization/00173_R_13/30e2ec6aff85488e811c3e01c089125c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00173_R_13/30e2ec6aff85488e811c3e01c089125c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00173_R_13_30e2ec6aff85488e811c3e01c089125c.jpg"
+    },
+    {
+        "image": "Dataset_cases_anonymization/00173_R_13/bf696c382b544a408fb85c19671a583c.jpg",
+        "upper": "Dataset_cases_anonymization/00173_R_13/bf696c382b544a408fb85c19671a583c_mask_upper.bmp",
+        "lower": "Dataset_cases_anonymization/00173_R_13/bf696c382b544a408fb85c19671a583c_mask_lower.bmp",
+        "background": "Dataset_cases_anonymization/background/00173_R_13_bf696c382b544a408fb85c19671a583c.jpg"
+    }
+]
