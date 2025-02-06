@@ -20,7 +20,7 @@ class Data_Loader(Dataset):
         self.data_path = data_path
         with open(data_path, 'r') as json_file:
             self.data = json.load(json_file)
-        self.root_path = os.path.dirname(self.data_path) + '/Dataset_cases'
+        self.root_path = os.path.dirname(self.data_path) + '/Dataset_cases_anonymization'
         self.transform = transform
         self.create_overlap_flag = create_overlap_flag
 
