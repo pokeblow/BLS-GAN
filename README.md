@@ -2,7 +2,7 @@
 
 
 # BLS-GAN
-BLS-GAN: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs
+[AAAI 25] BLS-GAN: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs
 
 
 ## Paper
